@@ -1,0 +1,117 @@
+
+/*Para dispositivos com width menor que 768px*/
+body {
+  padding-top: 80px;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+
+.carouselparagrafo {
+  font-size: 20rem;
+}
+
+
+h2 {
+  font-family: 'Raleway', sans-serif;
+}
+
+.lead {
+  font-size: 13pt;
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+hr {
+  background-color: rgba(62, 63, 63, 0.116);
+  height: 1px;
+}
+
+
+
+.nav-link {
+  color: black;
+  font-size: 11pt;
+
+}
+
+  .navbar {
+    background-color: #fff;
+    padding-top: 0rem;
+    padding-bottom: 0rem;
+  }
+
+
+ 
+  
+  /*  Featurette */
+  element.style {
+    width: 424px;
+    height: 425px;
+  }
+
+ 
+
+  .img-fluid {
+    max-width: 100%;
+  }
+
+  .featurette-heading {
+    font-family: inherit;
+    font-size: 3rem;
+    font-weight: 400;
+    }
+
+    .featurette-divider {
+      margin: 6rem 0;
+      border: 0;
+    }
+  
+
+    
+
+
+
+
+/* Nossos serviços */
+   
+ 
+/* Depoimentos*/
+
+  .rounded-circle {
+    border-radius: 50%;
+  }
+
+
+  p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    
+  }
+
+
+
+
+
+.scrollspySite{
+    position: relative;
+    overflow: auto;
+    height: 345px;
+}
+.footer {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+    background-color: #2c3e50;
+    color: #fff;
+    
+  }
+
+  a {
+    color: #fff;
+  }
+
+  .copyright {
+    background-color: #1a252f;
+  }
+  
+  
